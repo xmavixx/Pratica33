@@ -1,13 +1,7 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-
 package utfpr.ct.dainf.if62c.exemplos;
 
 /**
- * Representa uma matriz de valores double.
+ * Representa uma matriz de valores {@code double}.
  * @author Wilson Horstmeyer Bogadao <wilson@utfpr.edu.br>
  */
 public class Matriz {
