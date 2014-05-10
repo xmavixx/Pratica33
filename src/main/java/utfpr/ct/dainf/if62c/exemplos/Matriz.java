@@ -42,19 +42,19 @@ public class Matriz {
     
     /**
      * Retorna a soma desta matriz com a matriz recebida como argumento.
-     * @param mat A matriz a ser somada
+     * @param m A matriz a ser somada
      * @return A soma das matrizes
      */
-    public Matriz soma(Matriz mat) {
+    public Matriz soma(Matriz m) {
         throw new UnsupportedOperationException("Soma de matrizes não implementada.");
     }
 
     /**
      * Retorna o produto desta matriz com a matriz recebida como argumento.
-     * @param mat A matriz a ser multiplicada
+     * @param m A matriz a ser multiplicada
      * @return O produto das matrizes
      */
-    public Matriz prod(Matriz mat) {
+    public Matriz prod(Matriz m) {
         throw new UnsupportedOperationException("Produto de matrizes não implementado.");
     }
 
